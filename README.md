@@ -1,2 +1,2 @@
-usefull_androidlib
+_androidlib
 ==================
